@@ -35,7 +35,7 @@ pip install Pillow pillow-avif
 2. Place your images in the `input_folder` (you can include subfolders).
 3. Run the script:
    ```bash
-   python avif_to_jpg.py
+   python img_to_jpg.py
    ```
 
 The script will:
